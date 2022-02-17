@@ -1,3 +1,5 @@
+修改登录ip为192.168.2.1
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
